@@ -1,6 +1,5 @@
 # AI Agent using Python
 
-
 0. Environment setup
 1. build a simple rule based agent
 2. add memory to the AI agent
