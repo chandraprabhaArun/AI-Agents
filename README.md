@@ -5,5 +5,5 @@
 2. add memory to the AI agent
 3. connect the agent to the internet or APIs
 4. implement multi-agent collaboration
-5. fine-tine an LLM
+5. fine-tune an LLM
 6. deploy the agent
